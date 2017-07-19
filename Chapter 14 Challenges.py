@@ -24,7 +24,7 @@ class square():
 
 def are_they_the_same(x,y):
     if x is y:
-        print('these bjects are the same')
+        print('these objects are the same')
     else:
         print('these objects are not the same')
 
